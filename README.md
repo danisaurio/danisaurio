@@ -1,10 +1,11 @@
 ## Hi there! 👋 Im Daniela ✨ (Dani-saurio, get it? 😄 ok no, move on)
 
 👩‍💻 + 💉 I'm a software developer and a RN (nurse)
- - 💖 **Love:** biology and tech
- - 😠 **Hate:** Do things just for the sake of tradition, AKA: "We know this is not how we should do it, but is just how we do it" ... Why would you dome something wrong deliberately?!
+ - 💖 **Love:** Biology 🧬 and Tech 💻
+ - 😠 **Hate:** Do things just for the sake of tradition, A.K.A: "We know this is not how we SHOULD do it, but is just how we do it" 🤷‍♀️ ... Why would you dome something wrong deliberately?! 
 
-#### Right now I'm looking to help mingle tech and biology (extra points if it involves healthcare or animals)
+
+   **Right now I'm looking to help mingle tech and biology (extra points if it involves healthcare or animals)**
 
 ### I have used...
 
