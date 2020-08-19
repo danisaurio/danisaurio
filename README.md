@@ -5,8 +5,6 @@
  - 😠 **Hate:** Do things just for the sake of tradition, A.K.A: "We know this is not how we SHOULD do it, but is just how we do it" 🤷‍♀️ ... Why would you dome something wrong deliberately?! 
 
 
-   <ins>**Right now I'm looking to help mingle tech and biology (extra points if it involves healthcare or animals)**</ins>
-
 ### I have used...
 
 * ***Languages***
