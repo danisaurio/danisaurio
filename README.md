@@ -31,13 +31,13 @@
 
 * ***Frameworks***
 
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js&logoColor=#4FC08D)
-  ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=#61DAFB)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-222222?style=flat&logo=Vue.js&logoColor=#4FC08D)
+  ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=#61DAFB)
   ![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=Angular&logoColor=E23237)
-  ![Rails](https://img.shields.io/badge/-Rails-000000?style=flat&logo=ruby-on-rails&logoColor=CC0000)
-  ![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic&logoColor=3880FF)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Bulma](https://img.shields.io/badge/-Bulma-000000?style=flat&logo=Bulma&logoColor=#00D1B2)
+  ![Rails](https://img.shields.io/badge/-Rails-222222?style=flat&logo=ruby-on-rails&logoColor=CC0000)
+  ![Ionic](https://img.shields.io/badge/-Ionic-222222?style=flat&logo=ionic&logoColor=3880FF)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Bulma](https://img.shields.io/badge/-Bulma-222222?style=flat&logo=Bulma&logoColor=#00D1B2)
 
 * ***Databases***
 
