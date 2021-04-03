@@ -17,7 +17,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=007ACC)
   ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=Java)
-  ![C++](https://img.shields.io/badge/-C++-v?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 * ***Technologies***
 
