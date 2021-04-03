@@ -43,7 +43,7 @@
 
   ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql&logoColor=4479A1)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
-  ![DynamoDB](https://img.shields.io/badge/-AmazonDynamoDB-000000?style=flat&logo=amazondynamodb&logoColor=4053D6)
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000000?style=flat&logo=amazondynamodb&logoColor=4053D6)
   
 * ***Testing***
 
