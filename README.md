@@ -1,6 +1,6 @@
 ## Hi there! 👋 Im Daniela ✨ (Dani-saurio, get it? 😄 ok no, move on)
 
-👩‍💻 + 💉 I'm a software developer and a RN (nurse)
+👩‍💻 + 💉 I'm a woman, I'm Latina, I'm a software developer and a RN (nurse)
  - 💖 **Love:** Biology 🧬 and Tech 💻
  - 😠 **Hate:** Do things just for the sake of tradition, A.K.A: "We know this is not how we SHOULD do it, but is just how we do it" 🤷‍♀️ ... Why would you dome something wrong deliberately?! 
 
