@@ -46,6 +46,8 @@
   
 * ***Testing***
 
+  ![Cypress](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress&logoColor=17202C)
+  ![Jest](https://img.shields.io/badge/-jest-000000?style=flat&logo=jest&logoColor=C21325)
   ![Jasmine](https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=jasmine&logoColor=8A4182)
   ![Rspec](https://img.shields.io/badge/-Rspec-000000?style=flat&logo=rubygems&logoColor=E9573F)
   ![Mocha](https://img.shields.io/badge/-Mocha-000000?style=flat&logo=Mocha&logoColor=#8D6748)
