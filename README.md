@@ -9,15 +9,15 @@
 
 * ***Languages***
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-  ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=red)
-  ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=007ACC)
-  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
-  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-222222?style=flat&logo=typescript&logoColor=007ACC)
+  ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python)
+  ![Ruby](https://img.shields.io/badge/-Ruby-222222?style=flat&logo=ruby&logoColor=red)
+  ![SQL](https://img.shields.io/badge/-SQL-222222?style=flat&logo=MySQL)
+  ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=007ACC)
+  ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=Java)
+  ![C++](https://img.shields.io/badge/-C++-v?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 * ***Technologies***
 
@@ -25,8 +25,8 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat&logo=gitLab&logoColor=#FCA121)
   ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
   ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-  ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&logoColor=0089D6)
-  ![Cordova](https://img.shields.io/badge/-Cordova-000000?style=flat&logo=apache-cordova&logoColor=E8E8E8)
+  ![Azure](https://img.shields.io/badge/-Azure-222222?style=flat&logo=microsoft-azure&logoColor=0089D6)
+  ![Cordova](https://img.shields.io/badge/-Cordova-222222?style=flat&logo=apache-cordova&logoColor=E8E8E8)
   ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 
 * ***Frameworks***
@@ -42,16 +42,16 @@
 * ***Databases***
 
   ![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql&logoColor=4479A1)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
-  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000000?style=flat&logo=amazondynamodb&logoColor=4053D6)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=336791)
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-222222?style=flat&logo=amazondynamodb&logoColor=4053D6)
   
 * ***Testing***
 
-  ![Cypress](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress&logoColor=17202C)
-  ![Jest](https://img.shields.io/badge/-jest-000000?style=flat&logo=jest&logoColor=C21325)
-  ![Jasmine](https://img.shields.io/badge/-Jasmine-000000?style=flat&logo=jasmine&logoColor=8A4182)
-  ![Rspec](https://img.shields.io/badge/-Rspec-000000?style=flat&logo=rubygems&logoColor=E9573F)
-  ![Mocha](https://img.shields.io/badge/-Mocha-000000?style=flat&logo=Mocha&logoColor=#8D6748)
+  ![Cypress](https://img.shields.io/badge/-Cypress-222222?style=flat&logo=cypress&logoColor=17202C)
+  ![Jest](https://img.shields.io/badge/-jest-222222?style=flat&logo=jest&logoColor=C21325)
+  ![Jasmine](https://img.shields.io/badge/-Jasmine-222222?style=flat&logo=jasmine&logoColor=8A4182)
+  ![Rspec](https://img.shields.io/badge/-Rspec-222222?style=flat&logo=rubygems&logoColor=E9573F)
+  ![Mocha](https://img.shields.io/badge/-Mocha-222222?style=flat&logo=Mocha&logoColor=#8D6748)
   
   
 
